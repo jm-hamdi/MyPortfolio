@@ -102,7 +102,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1JraTRJA514zabTFkCwuep_y5-Vbqj48r/view?usp=sharing",
+    "https://drive.google.com/file/d/16NOCPBPFwjIl8isSqVsRIrS3UBbFMfzT/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/jawad_mh1",
     twitter: "",
