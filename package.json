@@ -10,6 +10,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "caniuse-lite": "^1.0.30001660",
+    "emailjs-com": "^3.2.0",
     "next": "latest",
     "next-themes": "latest",
     "react": "18.2.0",
