@@ -58,27 +58,27 @@ const userData = {
     ],
   },
   experience: [
-    
+
     {
       title: "Software Engineer",
       company: "teal technology services(IBM & OCP JV)",
       year: "2024",
       companyLink: "https://www.teal.ma/",
-      desc: "Tech: JavaScript, React Native, Expo, Redux, Azure DevOps  I reconstructed the MyOCP mobile application using React Native and Expo, enhancing both user experience and performance. I developed custom solutions and technical specifications for API integrations, ensuring seamless functionality. Additionally, I conducted unit testing to guarantee the accuracy and reliability of the app. Throughout the project, I managed tasks and workflows using Azure DevOps, which facilitated better collaboration and task tracking. I also provided support to clients during the installation and acceptance testing phases.",
+      desc: "Tech stack : .NET Core, C#, JavaScript, React Native, Redux, Azure DevOp Executed the migration of the MyOCP application to a microservices architecture with .NET Core and C#; reduced codebase complexity by 30%, enabling faster feature releases and improving developer productivity across the engineering team. Developed the mobile application with React Native and integrated ASP.NET Core APIs, improving user experience and performance. Implemented Agile SCRUM and Azure DevOps for task planning, testing, and project management, ensuring effective workflow and delivery. Created and integrated custom API solutions in ASP.NET Core, conducted thorough unit testing, and supported clients through installation and acceptance testing to ensure robust deployment.",
     },
     {
       title: "Internship",
       company: "Fractalite",
       year: "2023",
       companyLink: "https://fractalite.com/",
-      desc: "Tech: Java Spring microservices and Angular, CRM integration for specialized Hotel Property Management System .  Value: Development of an integrated PMS with CRM (Web and Mobile): Contributed to the development of a Property Management System integrated with CRM for specialized hotels, accessible on both web and mobile platforms. which improved reservation management efficiency by 25% and increased customer satisfaction ratings by 15%.",
+      desc: "Tech stack : Java Spring Boot, Angular, CRM integration, DevOps, Trello Development of an integrated PMS with CRM (Web and Mobile): Contributed to the development of a Property Management System integrated with CRM for specialized hotels, accessible on both web and mobile platforms. which improved reservation management efficiency by 25% and increased customer satisfaction ratings by 15%.",
     },
     {
       title: "Internship",
       company: "OCP GROUP",
       year: "2022",
       companyLink: "https://www.ocpgroup.ma/",
-      desc: "Tech: Laravel PHP and MySQL.Value: Enhanced the efficiency and effectiveness of internship coordination by implementing streamlined processes and robust technology solutions.",
+      desc: "Tech stack : Laravel PHP and MySQL. Enhanced the efficiency and effectiveness of internship coordination by implementing streamlined processes and robust technology solutions.",
     },
     {
       title: "Graduation",
