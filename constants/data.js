@@ -9,42 +9,42 @@ const userData = {
   projects: [
     {
       title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
+      link: "",
       imgUrl: "/tmk.jpg",
     },
     {
       title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
+      link: "",
       imgUrl: "/placeholdertech.png",
     },
     {
       title: "Portfolio",
-      link: "https://manuarora.in",
+      link: "",
       imgUrl: "/portfolio.png",
     },
     {
       title: "CovidRescue",
-      link: "https://covidrescue.co.in",
+      link: "",
       imgUrl: "/covidrescue.png",
     },
     {
       title: "Algochurn",
-      link: "https://algochurn.com",
+      link: "",
       imgUrl: "/algochurn.png",
     },
     {
       title: "Playground",
-      link: "https://play.placeholdertech.in",
+      link: "",
       imgUrl: "/playground.png",
     },
     {
       title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
+      link: "",
       imgUrl: "/feedmeback.png",
     },
     {
       title: "Devmedium",
-      link: "https://devmedium.vercel.app",
+      link: "",
       imgUrl: "/devmedium.png",
     },
   ],
